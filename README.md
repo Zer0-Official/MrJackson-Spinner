@@ -3,4 +3,5 @@ The first ever facial spinner program that features Mr. Jackson. Other faces inc
 
 ### Credits
 Developed in Pygame by Zer0-Official
+
 Includes images of Kevin Jackson, John Green, and David Coday
